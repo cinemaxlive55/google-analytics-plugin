@@ -244,3 +244,8 @@ Unexpected behaviour may occur on the following methods:
 that the wrong data specifier `cd` is taken for metrics, whereas `cm` should be the correct specifier.
 So as long as this bug is not fixed, trackMetrics will overwrite previous addCustomDimension with same index!!
 
+
+https://firebase.google.com/docs/dynamic-links
+
+https://stackoverflow.com/questions/43363900/how-to-implement-referral-code-in-hybrid-mobile-apps-while-downloading-from-stor
+
